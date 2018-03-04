@@ -1,7 +1,6 @@
 package com.akshaybijawe.controllers;
 
-import com.akshaybijawe.services.GreetingService;
-import com.akshaybijawe.services.GreetingServiceImpl;
+import com.test.services.GreetingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;

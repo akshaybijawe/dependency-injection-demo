@@ -1,4 +1,4 @@
-package com.akshaybijawe.services;
+package com.test.services;
 
 import com.akshaybijawe.LifeCycleDemoBean;
 import org.springframework.beans.BeansException;
