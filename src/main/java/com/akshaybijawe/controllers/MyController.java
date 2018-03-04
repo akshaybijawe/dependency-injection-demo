@@ -1,7 +1,7 @@
 package com.akshaybijawe.controllers;
 
 
-import com.test.services.GreetingService;
+import com.akshaybijawe.services.GreetingService;
 import org.springframework.stereotype.Controller;
 
 @Controller

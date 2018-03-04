@@ -1,6 +1,6 @@
 package com.akshaybijawe.controllers;
 
-import com.test.services.GreetingServiceImpl;
+import com.akshaybijawe.services.GreetingServiceImpl;
 import org.junit.Before;
 import org.junit.Test;
 

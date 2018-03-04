@@ -1,4 +1,4 @@
-package com.test.services;
+package com.akshaybijawe.services;
 
 public interface GreetingService {
 
