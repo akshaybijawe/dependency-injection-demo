@@ -3,3 +3,10 @@ test:
     username: JMS username
     password: password
     url: testURL
+
+---
+spring:
+    profiles:de
+test:
+  jms:
+    username: JMS username $$$$ German
