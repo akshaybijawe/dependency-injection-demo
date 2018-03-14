@@ -1,0 +1,37 @@
+# Comment
+
+name: Akshay
+
+names: #Comment
+    - Sam
+    - Dean
+    - Paul
+
+pound_sign: "#"
+
+book:
+    author: Joe Buck
+    publisher: random house
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no #No, false, FALSE
+
+string_value: "It's a yml file"
+
+colon_string: "courses: one two three"
+
+include_new_lines: |
+    sample
+    new
+    lines
+
+ignore_new_lines: >
+    this is
+    just one
+    long string
+
